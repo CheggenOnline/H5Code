@@ -1,1 +1,3 @@
-alert("Hell Yeah!");
+export function sayHi() {
+    alert("HI");
+}
