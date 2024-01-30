@@ -4,5 +4,5 @@
 }());
 
 var sayHello = function (name) {
-  alert("Hello", name);
+  alert("Hello" + name);
 }
